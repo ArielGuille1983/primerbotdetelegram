@@ -1,1 +1,1 @@
-worker python cuartobot.py
+bot: python3 cuartobot.py
