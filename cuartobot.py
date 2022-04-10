@@ -8,7 +8,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 
-#ACTIVAR EL TOKEN DESDE EL CMD : set TOKEN="el token"
+#ACTIVAR EL TOKEN DESDE EL CMD : set TOKEN="el token".
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s" 
