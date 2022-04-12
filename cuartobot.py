@@ -1,7 +1,7 @@
 from asyncore import dispatcher
 import os
 import sys
-import gunicorn
+
 import logging
 from tokenize import group
 from turtle import update #Para ver lo que hace es bot
