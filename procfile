@@ -1,1 +1,1 @@
-worker: python3 cuartobot.py
+web: python cuartobot.py runserver "0.0.0.0:$PORT"
