@@ -1,1 +1,1 @@
-web: gunicorn python3 cuartobot.py
+web: python3 cuartobot.py
